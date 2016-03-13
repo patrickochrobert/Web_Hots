@@ -1,0 +1,8 @@
+**/node_modules
+typings/**
+
+client/**/*.js
+**.map
+
+**.orig
+**.rej
